@@ -1,5 +1,6 @@
 TARGET = server
 SRCS = miniserv.c 
+#SRCS = main_example.c 
 CC = gcc
 CFLAGS = -Werror -Wall -Wextra
 INCLUDES = -I ./
